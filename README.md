@@ -29,7 +29,7 @@
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 
-- 👨‍💻 .NET Developer\
+- 👨‍💻 VB.NET Developer\
 📆 2018.06 - 2021.03\
 📍 Korea Fund Ratings, Republic of Korea
 
