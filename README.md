@@ -17,7 +17,7 @@
 
 - 👨‍💻 CDM DataEngineer\
   📆 2021.10 - moment\
-  📍 Evidnet
+  📍 Evidnet Inc.
   
   <img align="right" src="https://img.shields.io/badge/HTML-E34F26?style=flat-squre&logo=html5&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/CSS-1572B6?style=flat-squre&logo=css3&logoColor=white"/>
@@ -42,8 +42,8 @@
 <summary> 💻 used it at least once </summary>
 
 <h4>Language</h4>
-<img src="https://img.shields.io/badge/C%23.NET-239120?style=flat-squre&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/VB.NET-A100FF?style=flat-squre&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-squre&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualBasic-A100FF?style=flat-squre&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-squre&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/JAVA-DD4B39?style=flat-squre&logo=Java&logoColor=white"/>
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssumiin"/>
