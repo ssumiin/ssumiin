@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&width=&section=header&text=Welcome&fontSize=50&FontColor=000000" width="100%"/>
 
 ## Contact
-<div align="center> 
+<div align="left"> 
 <a href="https://leetcode.com/ssumiin" alt="Go to Leetcode">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
 <a href="mailto:ggoddo101@gmail.com?subject=github에서보고연락드립니다."><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
