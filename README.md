@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&width=&section=header&text=Welcome&fontSize=50&FontColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&width=&section=header&text=Welcome&fontSize=50&FontColor=000000" width="100%"/>
 
 ## Contact
 <a href="https://leetcode.com/ssumiin" alt="Go to Leetcode">
