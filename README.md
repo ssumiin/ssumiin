@@ -25,7 +25,7 @@
   
 - 👨‍💻 IT Operations\
   📆 2021.03 - 2021.10\
-  📍 Hanwha Asset Management Co.
+  📍 Hanwha Asset Management Co.Ltd.
   
   <img align="right" src="https://img.shields.io/badge/VB.NET-A100FF?style=flat-squre&logo=dotnet&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=flat-squre&logo=python&logoColor=blue"/>
