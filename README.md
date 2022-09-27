@@ -100,7 +100,7 @@
             <li>Data Receiver/Feeder Program</li>
             <ul>
                 <li>Connect to SFTP Server, Download CSV Files or Upload CSV Files</li>
-                <li>Extract CSV Data, Create Temp Table using CSV Files</li>
+                <li>Create Temp Table using CSV Files</li>
                 <li>Create CSV Files using Fund Analytics Data</li>
                 <li>Checking ETL Pipeline</li>                
             </ul>
