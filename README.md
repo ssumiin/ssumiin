@@ -79,6 +79,7 @@
             <li>FundSquare/PMO/FundPlus</li>
             <ul>
                 <li>Visualize Fund Information</li>
+                <li>Querying Fund Informaion using Stored Procedure</li>
                 <li>Skills:
                     <img alt="SQLServer"
                         src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
@@ -97,7 +98,7 @@
         </ul>
         <li>Develop In-house Automation Tools</li>
         <ul>
-            <li>Data Receiver/Feeder Program</li>
+            <li>Data Receiver/Maker/Feeder Program</li>
             <ul>
                 <li>Connect to SFTP Server, Download CSV Files or Upload CSV Files</li>
                 <li>Create Temp Table using CSV Files</li>
@@ -133,7 +134,8 @@
                     <li>Append to Factor Table using Temp Table</li>
                     <li>Transform Data for Fund Analytics</li>
                     <li>Load to OLAP Server</li>                    
-                    <li>Skills:<img alt="SQLServer"
+                    <li>Skills:
+                      <img alt="SQLServer"
                             src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
                     </li>
                 </ul>
