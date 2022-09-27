@@ -76,7 +76,7 @@
     <ul>
         <li>Develop Fund Information Program</li>
         <ul>
-            <li>FundSqure/PMO/FundPlus</li>
+            <li>FundSquare/PMO/FundPlus</li>
             <ul>
                 <li>Visualize Fund Information</li>
                 <li>Skills:
