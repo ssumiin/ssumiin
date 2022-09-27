@@ -12,7 +12,7 @@
 <details>
 <summary>📃 Resume</summary>
   <h5> Education </h5>
-  <div>Chang-Won National University</div>
+  <div>ChangWon National University</div>
   <div>Bachelor of Computer Engineering </div>
   <div>2012.03 - 2017.02
   <h5> Career </h5>
@@ -91,24 +91,20 @@
                     <img alt="InstallShield"
                         src="https://img.shields.io/badge/InstallShield-044059?style=flat-square&logoColor=white" />
                     <img alt="SVN"
-                         src="https://img.shields.io/badge/Subversion-75AADB?style=flat-square&logoClo=white" />
+                        src="https://img.shields.io/badge/Subversion-75AADB?style=flat-square&logoClo=white" />
                 </li>
             </ul>
         </ul>
-      <li>DataWareHouse Operation</li>
+        <li>Develop In-house Automation Tools</li>
         <ul>
-            <li>Batch Processing using by Stored Procedure & Scheduler</li>
+            <li>Data Receiver/Feeder Program</li>
             <ul>
-                <li>Appending RawData into FactorTable</li>
-                <li>Transform Data for Analytics</li>
-                <li>Skills:<img alt="SQLServer"
-                        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
-                </li>
+                <li>Connect to SFTP Server, Download CSV Files or Upload CSV Files</li>
+                <li>Extract CSV Data, Create Temp Table using CSV Files</li>
+                <li>Create CSV Files using Fund Analytics Data</li>
+                <li>Checking ETL Pipeline</li>                
             </ul>
-        </ul>
-      <li>Develop in-house automation tools</li>
-        <ul>
-            <li>ETF Scrapser Program/ 2020.08</li>
+            <li>ETF Scraper Program/ 2020.08</li>
             <ul>
                 <li>Extract ETF Ticker Portfolio Data in Fund Information Homepage</li>
                 <li>Store into DBMS</li>
@@ -122,6 +118,18 @@
                     <img alt="Selenium"
                         src="https://img.shields.io/badge/Selenium-006600?style=flat-square&logo=Selenium&logoColor=white" />
                 </li>
+            </ul>
+            <li>Data WareHouse Operation</li>
+            <ul>
+                <li>Batch Processing using by Stored Procedure & Scheduler</li>
+                <ul>
+                    <li>Append to Factor Table using Temp Table</li>
+                    <li>Transform Data to Fund Analytics</li>
+                    <li>Load to OLAP Server</li>                    
+                    <li>Skills:<img alt="SQLServer"
+                            src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+                    </li>
+                </ul>
             </ul>
         </ul>
 </div>
