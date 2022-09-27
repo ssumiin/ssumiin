@@ -102,7 +102,14 @@
                 <li>Connect to SFTP Server, Download CSV Files or Upload CSV Files</li>
                 <li>Create Temp Table using CSV Files</li>
                 <li>Create CSV Files using Fund Analytics Data</li>
-                <li>Checking ETL Pipeline</li>                
+                <li>Checking ETL Pipeline</li>
+                <li>Skills:
+                    <img alt="SQLServer"
+                        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+                    <img alt="VB.NET"
+                        src="https://img.shields.io/badge/VB.NET-A100FF?style=flat-square&logo=dotnet&logoColor=white" />
+                    <img alt="WeonlyDo"
+                        src="https://img.shields.io/badge/WeonlyDo-000000?style=flat-square&logo=dotnet&logoColor=white" />
             </ul>
             <li>ETF Scraper Program/ 2020.08</li>
             <ul>
