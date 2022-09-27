@@ -58,7 +58,7 @@
                     <img alt="InstallShield"
                         src="https://img.shields.io/badge/InstallShield-044059?style=flat-square&logoColor=white" />
                     <img alt="SVN"
-                         src="https://img.shields.io/badge/Subversion-75AADB?style=flat-squre&logoClo=white" />
+                         src="https://img.shields.io/badge/Subversion-75AADB?style=flat-square&logoClo=white" />
                 </li>
             </ul>
         </ul>
