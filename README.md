@@ -124,7 +124,7 @@
                 <li>Batch Processing using by Stored Procedure & Scheduler</li>
                 <ul>
                     <li>Append to Factor Table using Temp Table</li>
-                    <li>Transform Data to Fund Analytics</li>
+                    <li>Transform Data for Fund Analytics</li>
                     <li>Load to OLAP Server</li>                    
                     <li>Skills:<img alt="SQLServer"
                             src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
