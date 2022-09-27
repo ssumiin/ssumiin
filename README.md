@@ -140,8 +140,7 @@
 <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssumiin"/>
   
 <h4>Frameworks & Library</h4>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Netty-666666?style=flat-square&logo=&logoColor=white" />
 
 </div>
