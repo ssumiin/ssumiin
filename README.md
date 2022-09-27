@@ -16,24 +16,57 @@
   <div>Bachelor of Computer Engineering </div>
   <div>2012.03 - 2017.02
   <h5> Career </h5>
-  <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/Digdag-FF9A00?style=flat-square&logo=Java&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=black"/>
 
 - 👨‍💻 CDM DataEngineer/ CDM Technology Team\
   📆 2021.10 - moment\
   📍 Evidnet Inc.
-  
-  <img align="right" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+    
+  <div>
+    <ul>
+        <li>CDM ETL</li>
+        <ul>
+            <li>Converse HIS Data into CDM</li>
+            <li>Create DataMart on Demand by Doctor</li>
+            <li>Skills:
+                <img alt="PostgreSQL"
+                    src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+                <img alt="Docker"
+                    src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+                <img alt="Linux"
+                    src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+                <img alt="Gitlab"
+                    src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" />
+                <img alt="Digdag"
+                    src="https://img.shields.io/badge/Digdag-FF9A00?style=flat-square&logo=Java&logoColor=white" />
+                <img alt="PLSQL"
+                    src="https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=black" />
+            </li>
+        </ul>
+    </ul>
+</div>
+    
   
 - 👨‍💻 IT Operations/ IT System Team\
   📆 2021.03 - 2021.10\
   📍 Hanwha Asset Management Co.Ltd.
+    
+  <div>
+    <ul>
+        <li>System Operations</li>
+        <ul>            
+            <li>Access management using by DRM Application </li>
+            <li>Contracting BenchMark Data & SI Projects</li>
+            <li>Service desk</li>
+            <li>Skills:<img alt="HTML"
+                    src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+                <img alt="CSS"
+                    src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+                <img alt="Excel"
+                    src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+            </li>
+        </ul>
+    </ul>
+  </div>
 
 - 👨‍💻 VB.NET Developer/ Information Services Team\
   📆 2018.06 - 2021.03\
