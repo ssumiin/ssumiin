@@ -11,6 +11,11 @@
 <div align="left">
 <details>
 <summary>📃 Resume</summary>
+  <h5> Education </h5>
+  <div>Chang-Won National University</div>
+  <div>Bachelor of Computer Engineering </div>
+  <div>2012.03 - 2017.02
+  <h5> Career </h5>
   <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -44,6 +49,7 @@
 <details>
 <summary> 💻 Techs i've used least once </summary>
 
+<h3>Skills</h3> 
 <h4>Language</h4>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualBasic-A100FF?style=flat-square&logo=dotnet&logoColor=white"/>
