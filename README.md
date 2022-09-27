@@ -23,7 +23,7 @@
   <img align="right" src="https://img.shields.io/badge/Digdag-FF9A00?style=flat-square&logo=Java&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/PLSQL-F80000?style=flat-square&logo=oracle&logoColor=black"/>
 
-- 👨‍💻 CDM DataEngineer\
+- 👨‍💻 CDM DataEngineer/ CDM Technology Team\
   📆 2021.10 - moment\
   📍 Evidnet Inc.
   
@@ -31,18 +31,67 @@
   <img align="right" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
   
-- 👨‍💻 IT Operations\
+- 👨‍💻 IT Operations/ IT System Team\
   📆 2021.03 - 2021.10\
   📍 Hanwha Asset Management Co.Ltd.
-  
-  <img align="right" src="https://img.shields.io/badge/VB.NET-A100FF?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue"/>
-  <img align="right" src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-  <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/>
 
-- 👨‍💻 VB.NET Developer/ ETL Developer\
+- 👨‍💻 VB.NET Developer/ Information Services Team\
   📆 2018.06 - 2021.03\
   📍 Korea Fund Ratings Co.
+   
+  <div>
+    <ul>
+        <li>Develop Fund Information Program</li>
+        <ul>
+            <li>FundSqure/PMO/FundPlus</li>
+            <ul>
+                <li>Visualize Fund Information</li>
+                <li>Skills:
+                    <img alt="SQLServer"
+                        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+                    <img alt="VB.NET"
+                        src="https://img.shields.io/badge/VB.NET-A100FF?style=flat-square&logo=dotnet&logoColor=white" />
+                    <img alt="ActiveReports"
+                        src="https://img.shields.io/badge/ActiveReports-330F63?style=flat-square&logo=dotnet&logoColor=white">
+                    <img alt="TChart"
+                        src="https://img.shields.io/badge/TChart-0078D4?style=flat-square&logo=dotnet&logoColor=white" />
+                    <img alt="InstallShield"
+                        src="https://img.shields.io/badge/InstallShield-044059?style=flat-square&logoColor=white" />
+                    <img alt="SVN"
+                         src="https://img.shields.io/badge/Subversion-75AADB?style=flat-squre&logoClo=white" />
+                </li>
+            </ul>
+        </ul>
+      <li>DataWareHouse Operation</li>
+        <ul>
+            <li>Batch Processing using by Stored Procedure & Scheduler</li>
+            <ul>
+                <li>Appending RawData into FactorTable</li>
+                <li>Transform Data for Analytics</li>
+                <li>Skills:<img alt="SQLServer"
+                        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+                </li>
+            </ul>
+        </ul>
+      <li>Develop in-house automation tools</li>
+        <ul>
+            <li>ETF Scrapser Program/ 2020.08</li>
+            <ul>
+                <li>Extract ETF Ticker Portfolio Data in Fund Information Homepage</li>
+                <li>Store into DBMS</li>
+                <li>Skills:
+                    <img alt="SQLServer"
+                        src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+                    <img alt="Qt"
+                        src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+                    <img alt="Python"
+                        src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" />
+                    <img alt="Selenium"
+                        src="https://img.shields.io/badge/Selenium-006600?style=flat-square&logo=Selenium&logoColor=white" />
+                </li>
+            </ul>
+        </ul>
+</div>
 
 </details>
 
@@ -59,8 +108,6 @@
   
 <h4>Frameworks & Library</h4>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-006600?style=flat-square&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Netty-666666?style=flat-square&logo=&logoColor=white" />
 
