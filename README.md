@@ -23,13 +23,14 @@
     
   <div>
     <ul>
-        <li>CDM ETL</li>
+        <li>Deploy CDM for Distributed Research Network Platform</li>
         <ul>
-            <li>Deploy CDM for Distributed Research Network Platform</li>
+            <li>ELT Processing/li>
               <ul>
                 <li>ODS to CDM DB Migration</li>
                 <li>Transfrom Data to CDM</li>
-                <li>Data Cleansing</li>                
+                <li>Data Cleansing</li>
+                <li>trouble shooting ( query tuning, logic tuning...)</li>
               </ul>
             <li>Create DataMart on Demand by Doctor</li>
             <li>Skills:
