@@ -25,7 +25,7 @@
     <ul>
         <li>Deploy CDM for Distributed Research Network Platform</li>
         <ul>
-            <li>ELT Processing/li>
+            <li>ELT Processing</li>
               <ul>
                 <li>ODS to CDM DB Migration</li>
                 <li>Transfrom Data to CDM</li>
