@@ -28,7 +28,7 @@
             <li>ELT Processing</li>
               <ul>
                 <li>ODS to CDM DB Migration</li>
-                <li>Transfrom Data to CDM</li>
+                <li>Transform Data to CDM</li>
                 <li>Data Cleansing</li>
                 <li>trouble shooting ( query tuning, logic tuning...)</li>
               </ul>
