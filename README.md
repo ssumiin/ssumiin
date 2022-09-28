@@ -25,7 +25,12 @@
     <ul>
         <li>CDM ETL</li>
         <ul>
-            <li>Converse HIS Data into CDM</li>
+            <li>Deploy CDM for Distributed Research Network Platform</li>
+              <ul>
+                <li>ODS to CDM DB Migration</li>
+                <li>Transfrom Data to CDM</li>
+                <li>Data Cleansing</li>                
+              </ul>
             <li>Create DataMart on Demand by Doctor</li>
             <li>Skills:
                 <img alt="PostgreSQL"
@@ -78,8 +83,8 @@
         <ul>
             <li>FundSquare/PMO/FundPlus</li>
             <ul>
-                <li>Visualize Fund Information</li>
-                <li>Querying Fund Informaion using Stored Procedure</li>
+                <li>Create Fund Analytics Report</li>
+                <li>Visualize Fund Information</li>                
                 <li>Skills:
                     <img alt="SQLServer"
                         src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
@@ -131,7 +136,7 @@
             <ul>
                 <li>Batch Processing using by Stored Procedure & Scheduler</li>
                 <ul>
-                    <li>Append to Factor Table using Temp Table</li>
+                    <li>Append to Fact Table using Temp Table</li>
                     <li>Transform Data for Fund Analytics</li>
                     <li>Load to OLAP Server</li>                    
                     <li>Skills:
